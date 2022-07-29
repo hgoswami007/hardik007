@@ -1,4 +1,4 @@
-# hardik007
+hardik007/README.md
 <h1 align="center">Hi 👋, I'm Hardik Goswami</h1>
 <h3 align="center">I'm a Data Science Enthusiast👨‍💻</h3>
 <h6 align="left">🏅 I recently completed my Data Science studies from iNeuron.ai</br>
